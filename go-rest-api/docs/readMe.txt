@@ -1,5 +1,8 @@
+Build command:
+-------------
+1. go go-rest-api
+2. ./go-rest-api
 
-Inspired from Git Repo: https://github.com/Duncanian/go-rest-api
 
 Rest API's:
 -----------
@@ -89,3 +92,6 @@ Response:
 The event with ID 1 has been deleted successfully
 
 ----------------------------
+
+
+Note: Inspired from Git Repo: https://github.com/Duncanian/go-rest-api
