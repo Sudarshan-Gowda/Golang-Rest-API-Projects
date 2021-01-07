@@ -7,6 +7,34 @@
   a. go build 
   b. ./go-rest-api-mysql
 
+### User Reference Guide:
 
+1. API Test Flow: <br/>
 
-Inspired from https://medium.com/@hugo.bjarred/rest-api-with-golang-mux-mysql-c5915347fa5b
+<img src = "https://github.com/Sudarshan-Gowda/Golang-Rest-API-Projects/blob/main/go-rest-api-mysql/docs/Pic00.gif"/>
+
+2. Other Reference:
+
+2.1 Get All Post
+
+<img src= "https://github.com/Sudarshan-Gowda/Golang-Rest-API-Projects/blob/main/go-rest-api-mysql/docs/Pic-01.png"/>
+
+2.2 Get Post By ID
+
+<img src= "https://github.com/Sudarshan-Gowda/Golang-Rest-API-Projects/blob/main/go-rest-api-mysql/docs/Pic-02.png"/>
+
+2.3 Create Post
+
+<img src= "https://github.com/Sudarshan-Gowda/Golang-Rest-API-Projects/blob/main/go-rest-api-mysql/docs/Pic-03.png"/>
+
+2.4 Update Post:
+
+<img src= "https://github.com/Sudarshan-Gowda/Golang-Rest-API-Projects/blob/main/go-rest-api-mysql/docs/Pic-04.png"/>
+
+2.5 Delete Post
+<img src= "https://github.com/Sudarshan-Gowda/Golang-Rest-API-Projects/blob/main/go-rest-api-mysql/docs/Pic-05.png"/>
+
+<br> <br>
+
+Note:
+Inspired from [Medium Post](https://medium.com/@hugo.bjarred/rest-api-with-golang-mux-mysql-c5915347fa5b)
